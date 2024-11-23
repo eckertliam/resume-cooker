@@ -1,0 +1,11 @@
+.app-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 20px;
+}
+
+.design, .resume {
+    flex: 1;
+    margin: 10px;
+}
